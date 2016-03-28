@@ -1,0 +1,25 @@
+{
+  "name": "jackass",
+  "version": "1.0.0",
+  "description": "Jackass The Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiszimmerman/jackass.git"
+  },
+  "keywords": [
+    "jackass"
+  ],
+  "author": "curtis zimmerman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/jackass/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/jackass#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
